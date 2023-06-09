@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cf18c16-e5e9-446a-b79e-2aee8746269f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main_dvs.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EPS.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/EPS.h" afterDir="false" />
-    </list>
+    <list default="true" id="6cf18c16-e5e9-446a-b79e-2aee8746269f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +41,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -57,7 +55,7 @@
       <updated>1685721238923</updated>
       <workItem from="1685721240193" duration="2293000" />
       <workItem from="1686303466987" duration="3295000" />
-      <workItem from="1686321332695" duration="693000" />
+      <workItem from="1686321332695" duration="1232000" />
     </task>
     <servers />
   </component>
