@@ -17,7 +17,7 @@
 #include "PQ9Frame.h"
 #include "PQ9Message.h"
 #include "DWire.h"
-#include "INA226.h"
+//#include "INA226.h"
 #include "LTC2942.h"
 #include "TMP100.h"
 #include "DSPI.h"
