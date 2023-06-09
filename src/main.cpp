@@ -8,7 +8,11 @@ DWire BatteryBoardBus(2);
 // Battery gas gauge
 // Battery capacity: 1500mAh
 // Rsense: 33 mOhm
+
+// TODO: Figure what the heck this is
 LTC2942 gasGauge(BatteryBoardBus, 1500, 33);
+
+
 INA226 battery(BatteryBoardBus, 0x40);
 // internal power busses
 INA226 internalBus(I2Cinternal, 0x48);
